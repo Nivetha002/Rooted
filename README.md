@@ -1,16 +1,17 @@
 # Rooted
 
-** Overview **
+# Overview 
 As a helping hand to the farmers, “Rooted” is a web portal facilitating direct contact between farmer(producer) and customers(buyer) with elimination of the middle-men to maximize the profit earned by farmers and provide farm-products to customers at fair price. This will also benefit local transportation projects for the delivery and shipping purposes.
 
-** Technologies ** 
+# Technologies 
 
 - HTML5
 - CSS3
 - Bootstrap 3
 - JavaScript
 
-  ** Screenshot **
+
+# Screenshot 
   
 ![1](https://github.com/user-attachments/assets/f7525323-9f05-4ff7-a8ff-0616ecd2db4b)
 
