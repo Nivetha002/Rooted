@@ -12,13 +12,16 @@ As a helping hand to the farmers, “Rooted” is a web portal facilitating dire
 
 # 📸 Screenshot 
   
-![1](https://github.com/user-attachments/assets/f7525323-9f05-4ff7-a8ff-0616ecd2db4b)
+
+![Indexpage](https://github.com/user-attachments/assets/72958de2-aee1-494b-81fb-e4bf33c0f525)
+
 
 The credentials entered in this page are only for example purpose without any copyright. They are just meant for explanation.
 Selection of the Guest option will redirect you to the Rooted homepage.
 
 
-![2](https://github.com/user-attachments/assets/9412176b-1fd6-4389-abad-ba8e92871ea5)
+![Screenshot 2024-11-17 at 11 30 55 PM](https://github.com/user-attachments/assets/0f3bc8f5-339f-4cbe-a54d-9180fe77ef48)
+
 
 After the seller (farmer) in done with the login process, the next job to be done is to add the product that needs to be sold and also the quantity and price desired by the seller.
 
